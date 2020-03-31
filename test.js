@@ -15,7 +15,7 @@ for (let index = 0; index < length; index ++)
 {
     console.log("Index: " + index + ", Value: " + arr[index]);
 }
-
+///chanes laskdjflkasdf
 // using while loop to loop and access array items with if condition
 let index = 0;
 while (index < length){
