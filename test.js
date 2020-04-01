@@ -1,4 +1,6 @@
 // Arrays
+
+//asdflkajsldkfjsadlkfjadskjkln
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 // creating an array
 let arr = [1,2,3,4,5,6,7,8,9,10];
